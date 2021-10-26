@@ -34,4 +34,4 @@
       allow_platform_services: false
       password: netapp01
       quota_size: 1000000000000
-      quota_unit: byte
+      quota_size_unit: byte
